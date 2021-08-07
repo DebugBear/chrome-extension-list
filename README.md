@@ -1,8 +1,12 @@
 # List of Chrome extensions
 
-A list of 137,345 Chrome extensions, collected in May 2020.
+A list of 130,445 Chrome extensions, collected in June 2021.
 
 Sorted by the number of installations.
+
+## 2020 data
+
+A list of 137,345 Chrome extensions, collected in May 2020.
 
 ## Example data
 
